@@ -7,7 +7,7 @@ It supports relational databases (postgresql, and then mysql)
 
 The main query window looks like the following:
 
-<img src="http://i.imgur.com/3qVnkNO.png" alt="" style="width: 300px;"/>
+<img src="http://i.imgur.com/3qVnkNO.png" alt="" style="max-width: 50%;"/>
 
 **Features:**
  - Syntax highlighting
